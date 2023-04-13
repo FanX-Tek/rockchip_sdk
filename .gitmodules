@@ -1,0 +1,28 @@
+[submodule "prebuilts/gcc/linux-x86/aarch64/gcc-arm-10.3-2021.07-x86_64-aarch64"]
+	path = prebuilts/gcc/linux-x86/aarch64/gcc-arm-10.3-2021.07-x86_64-aarch64
+	url = https://github.com/Hao-boyan/gcc-arm-10.3-2021.07-x86_64-aarch64-none-linux-gnu.git
+	branch = gcc-10.3
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/Hao-boyan/u-boot.git
+	branch = develop
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/Hao-boyan/kernel.git
+	branch = develop
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/Hao-boyan/buildroot.git
+	branch = stable-2022
+[submodule "rkbin"]
+	path = rkbin
+	url = https://github.com/Hao-boyan/rkbin.git
+	branch = develop
+[submodule "device/rockchip"]
+	path = device/rockchip
+	url = https://github.com/Hao-boyan/rockchip.git
+	branch = develop
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Hao-boyan/docs.git
+	branch = develop
